@@ -18,7 +18,7 @@ url: "http://pyladiesrio.github.io/hackathona"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-121710030-1"
 googleAnalyticsSiteUrl: "pyladiesrio.github.io/hackathona"
-siteVerification: "" #b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "#mapadasmina"
