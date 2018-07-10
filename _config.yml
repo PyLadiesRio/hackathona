@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'ZEPPELIN-README.
 
 
 # Site Settings
-title: "HackathonA"
+title: "#hackathonA"
 email: "coletivomapadasmina@gmail.com"
-description: "HackathonA é uma maratona de programação para o #mapadasminas"
+description: "#hackathonA é uma maratona de programação para o #mapadasminas"
 baseurl: "/hackathona"
 url: "http://pyladiesrio.github.io/hackathona"
 permalink: "/blog/:title"
@@ -48,7 +48,7 @@ navigationLinks:
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Organização"}
  #- {permalink: "/logistics/", text: "Como chegar"}
- #- {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/hackathon/", text: "#hackathon"}
 #bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
@@ -56,7 +56,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "header.jpeg"
-heroTitle: "HackathonA <typeout>"
+heroTitle: "#hackathonA <typeout>"
 eventDate: "Rio de Janeiro - 11 Agosto 2018"
 typeoutTextValues: '"", "#mapadasmina", "Tecnologia", "Mulheres", "Empoderamento", "Código"'
 typeoutFallback: "#mapadasmina"
@@ -65,7 +65,7 @@ heroButtons:
  - {permalink: "https://www.sympla.com.br/hackatona-por-mais-mulheres-na-politica__320534", text: "Inscreva-se"}
 
 # About Block
-aboutTitle: "Sobre a HackathonA"
+aboutTitle: "Sobre a #hackathonA"
 aboutBlock:
  - {title: "Problema", image: "problem.svg", text: "Há uma grave subrepresentação de mulheres na política. Segundo dados  do TSE sobre as últimas eleições de 2014, apenas 28% dos candidatos eram mulheres. Hoje, entre as 81 cadeiras no senado, apenas 12 são ocupadas por mulheres. Na câmara, elas ocupam 50 cadeiras no universo de 512 parlamentares." }
  - {title: "Desafio", image: "challenge.svg", text: "Queremos mudar essa realidade nas eleições 2018! Para isso, iremos desenvolver juntas uma aplicação que irá ajudar a aumentar a visibilidade da candidatura de mulheres já nesta eleição. Dispomos de 24 horas para unir código, design, comunicação e criatividade numa plataforma entitulada #mapadasminas." }
@@ -204,7 +204,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "A HackathonA é um evento organizado em conjunto pelo #mapadasmina e o PyLadies Rio. Estas são as pessoas responsáveis por tornar tudo isto possível."
+aboutUs: "A #hackathonA é um evento organizado em conjunto pelo #mapadasmina e o PyLadies Rio. Estas são as pessoas responsáveis por tornar tudo isto possível."
 
 # Logistics Find Way Block
 findWayTitle: "Encontr-se"
@@ -251,29 +251,29 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
+# #hackathon
+hackathonTitle: "#hackathon"
+enable#hackathon: true
 
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+# #hackathon About Block
+about#hackathonTitle: "Meet our themes"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear #hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
-# Hackathon Judges Block
+# #hackathon Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
-# Hackathon Prizes Block
+# #hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
-# Hackathon Location Block
+# #hackathon Location Block
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
@@ -282,7 +282,7 @@ hackathonAddressLocality: "Lviv"
 hackathonAddressLocalityRegion: "Lvivska"
 hackathonPostalCode: "79000"
 hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
+hackathonTimeTitle: "#hack through"
 hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"

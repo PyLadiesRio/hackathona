@@ -8,19 +8,19 @@ isStaticPost: true
 
 **Condições de participação**
 
-Ao participar da HackathonA você automaticamente estará concordando com as regras listadas abaixo:
+Ao participar da #hackathonA você automaticamente estará concordando com as regras listadas abaixo:
 
 **Participantes**
 
 Poderão se inscrever no evento pessoas físicas, mulheres (cis ou trans), maiores de 18 (dezoito) anos.
 
-**Composição de equipes da HackathonA**
+**Composição de equipes da #hackathonA**
 
-A composição das equipes da HackathonA poderá ser feita por no mínimo 2 (dois) e no máximo 5 (cinco) membros. As integrantes serão escolhidos no dia do evento.
+A composição das equipes da #hackathonA poderá ser feita por no mínimo 2 (dois) e no máximo 5 (cinco) membros. As integrantes serão escolhidos no dia do evento.
 
 **Equipamentos**
 
-As participantes deverão utilizar de seus próprios equipamentos (no mínimo, um laptop com conexão wireless) para realização das atividades da HackathonA. A responsabilidade pelo transporte e segurança de tais equipamentos, bem como a utilização dos mesmos durante todo evento fica por conta de cada participante.
+As participantes deverão utilizar de seus próprios equipamentos (no mínimo, um laptop com conexão wireless) para realização das atividades da #hackathonA. A responsabilidade pelo transporte e segurança de tais equipamentos, bem como a utilização dos mesmos durante todo evento fica por conta de cada participante.
 
 **Direitos de terceiros**
 
@@ -44,9 +44,9 @@ As participantes que quebrarem ou cometerem quaisquer danos ao espaço e patrim�
 
 **Direitos de propriedade intelectual**
 
-Todo o código desenvolvido durante a HackathonA estará seguindo as conformidades da licença [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) e será distribuída como software livre. Cada participante manterá a sua propriedade intelectual sobre as ferramentas desenvolvidas, podendo citar posteriormente a plataforma como referência de colaboração.
+Todo o código desenvolvido durante a #hackathonA estará seguindo as conformidades da licença [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) e será distribuída como software livre. Cada participante manterá a sua propriedade intelectual sobre as ferramentas desenvolvidas, podendo citar posteriormente a plataforma como referência de colaboração.
 
-**Critérios da HackathonA**
+**Critérios da #hackathonA**
 
 1. Será desenvolvida uma plataforma web entitulada #mapadasmina.
 
@@ -54,12 +54,12 @@ Todo o código desenvolvido durante a HackathonA estará seguindo as conformidad
 
 3. As candidatas beneficiadas pela plataforma deverão estar em conformidade com as políticas do [#mapadasmina](../politicas/)
 
-4. A plataforma poderá conter uma ou mais ferramentas que serão desenvolvidas pelos grupos durante a HackathonA.
+4. A plataforma poderá conter uma ou mais ferramentas que serão desenvolvidas pelos grupos durante a #hackathonA.
 
 5. Antes do início das atividades, haverá uma sessão de brainstorming com algumas sugestões de ferramentas e as participantes também poderão sugerir novas ferramentas a serem desenvolvidas.
 
-6. Os grupos serão divididos e cada grupo pode optar por desenvolver uma ou mais ferramentas para compor a HackathonA.
+6. Os grupos serão divididos e cada grupo pode optar por desenvolver uma ou mais ferramentas para compor a #hackathonA.
 
-7. Os grupos terão 24 horas para desenvolver essas ferramentas e integrar o código ao GitHub da HackathonA.
+7. Os grupos terão 24 horas para desenvolver essas ferramentas e integrar o código ao GitHub da #hackathonA.
 
 8. O evento também disponibilizará mentores de design, programação, comunicação e tecnologia em geral para auxiliar os grupos em caso de dúvidas.

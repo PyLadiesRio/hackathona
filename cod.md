@@ -5,11 +5,11 @@ permalink: /cod/
 isStaticPost: true
 ---
 
-Um dos objetivos da HackathonA é criar um ambiente democrático de aprendizado, troca de experiências, networking e confraternização, livre de discriminação e assédio.
+Um dos objetivos da #hackathonA é criar um ambiente democrático de aprendizado, troca de experiências, networking e confraternização, livre de discriminação e assédio.
 
-O #mapadasmina e Pyladies, organizadoras da HackathonA, não permitirão práticas discriminatórias em razão de sexo, identidade e expressão de gênero, orientação sexual, origem, raça, cor, etnia, procedência nacional, condição social, econômica e intelectual.
+O #mapadasmina e Pyladies, organizadoras da #hackathonA, não permitirão práticas discriminatórias em razão de sexo, identidade e expressão de gênero, orientação sexual, origem, raça, cor, etnia, procedência nacional, condição social, econômica e intelectual.
 
-A HackathonA compromete-se a prevenir e erradicar práticas discriminatórias ou limitantes e espera que todos os presentes ajam de acordo com este Código de Conduta.
+A #hackathonA compromete-se a prevenir e erradicar práticas discriminatórias ou limitantes e espera que todos os presentes ajam de acordo com este Código de Conduta.
 
 Qualquer pessoa que se sinta ameaçado ou desrespeitado, vítima ou testemunha de qualquer discriminação ou assédio, informe imediatamente um membro da organização, seja pessoalmente ou através do e-mail coletivomapadasmina@gmail.com.
 
