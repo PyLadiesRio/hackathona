@@ -46,7 +46,7 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/team/", text: "Organização"}
+ - {permalink: "/team/", text: "Organização"}
  #- {permalink: "/logistics/", text: "Como chegar"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 #bottomNavigationLinks:
@@ -60,9 +60,9 @@ heroTitle: "HackathonA <typeout>"
 eventDate: "Rio de Janeiro - 11 Agosto 2018"
 typeoutTextValues: '"", "#mapadasmina", "Tecnologia", "Mulheres", "Empoderamento", "Código"'
 typeoutFallback: "#mapadasmina"
-#heroButtons:
+heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://www.sympla.com.br/hackatona-por-mais-mulheres-na-politica__320534", text: "Inscreva-se"}
 
 # About Block
 aboutTitle: "Sobre a HackathonA"
@@ -191,6 +191,8 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Código de Conduta"}
+   - {permalink: "/regulamento/", text: "Regulamento"}
+   - {permalink: "/politicas/", text: "Políticas"}
 
 # Blog
 blogTitle: "Latest news"
@@ -202,7 +204,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "O #mapadasmina é um coletivo que acredita a igualdade de gênero nos espaços de tomada de decisão é fundamental para o fortalecimento da democracia brasileira. Buscamos visibilizar a transparência das candidaturas e o acesso para maior conhecimento das pautas de direitos humanos defendidas pelas candidatas cadastradas."
+aboutUs: "A HackathonA é um evento organizado em conjunto pelo #mapadasmina e o PyLadies Rio. Estas são as pessoas responsáveis por tornar tudo isto possível."
 
 # Logistics Find Way Block
 findWayTitle: "Encontr-se"

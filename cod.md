@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Código de Conduta
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+Um dos objetivos da HackathonA é criar um ambiente democrático de aprendizado, troca de experiências, networking e confraternização, livre de discriminação e assédio.
 
+O #mapadasmina e Pyladies, organizadoras da HackathonA, não permitirão práticas discriminatórias em razão de sexo, identidade e expressão de gênero, orientação sexual, origem, raça, cor, etnia, procedência nacional, condição social, econômica e intelectual.
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+A HackathonA compromete-se a prevenir e erradicar práticas discriminatórias ou limitantes e espera que todos os presentes ajam de acordo com este Código de Conduta.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Qualquer pessoa que se sinta ameaçado ou desrespeitado, vítima ou testemunha de qualquer discriminação ou assédio, informe imediatamente um membro da organização, seja pessoalmente ou através do e-mail coletivomapadasmina@gmail.com.
 
+A organização tomará as medidas que julgar apropriadas a fim de coibir ou interromper o comportamento indevido, desde aviso verbal ou por escrito, impedir a entrada e permanência da ofensora ou do ofensor, assim como, pedir para que se retire.
 
-######Contacts:
+Além das ações acima, a organização informará às autoridades legais competentes de todas as ocorrências que caracterizem contravenção penal ou crime.
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+*Estas regras foram pautadas no código de conduta da Campusparty por tratar-se de um evento consolidado e com um acúmulo de boas práticas.
