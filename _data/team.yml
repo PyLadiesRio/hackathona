@@ -1,5 +1,45 @@
 -
-  id: 0
+  id: 1
+  name: "Aline"
+  surname: "Pina"
+  title: "Produtora de Experiências Imersivas (AR, MR, VR)"
+  thumbnailUrl: aline.jpg
+  team: true
+  ribbon:
+    - {abbr: "PyLadies", title: "PyLadies"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/pina_aline"}
+    - {name: "facebook", link: "https://www.facebook.com/aline.pina"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alinepina/"}
+-
+  id: 2
+  name: "Cristiane"
+  surname: "Vianna"
+  title: "Jornalista"
+  thumbnailUrl: cris.jpg
+  team: true
+  ribbon:
+    - {abbr: "#mapadasmina", title: "#mapadasmina"}
+-
+  id: 3
+  name: "Felipe"
+  surname: "Kusnitzki"
+  title: "Analista de Comunicação e Marketing"
+  thumbnailUrl: felipe.jpg
+  team: true
+  ribbon:
+    - {abbr: "#mapadasmina", title: "#mapadasmina"}
+-
+  id: 4
+  name: "Julia"
+  surname: "Rensi"
+  title: "Articuladora e Assistente de Projetos"
+  thumbnailUrl: julia.jpg
+  team: true
+  ribbon:
+    - {abbr: "#mapadasmina", title: "#mapadasmina"}
+-
+  id: 5
   name: "Paula"
   surname: "Grangeiro"
   title: "Web Developer"

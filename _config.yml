@@ -14,10 +14,10 @@ title: "#hackathonA"
 email: "coletivomapadasmina@gmail.com"
 description: "#hackathonA é uma maratona de programação para o #mapadasminas"
 baseurl: "/hackathona"
-url: "http://pyladiesrio.github.io/hackathona"
+url: "http://hackathona.mapadasmina.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-121710030-1"
-googleAnalyticsSiteUrl: "pyladiesrio.github.io/hackathona"
+googleAnalyticsSiteUrl: "hackathona.mapadasmina.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "" #/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "" #"url call4paper"
-c4sponsorsUrl: "" #url proposta patrocinio
+c4sponsorsUrl: "/assets/Hackatona - Proposta de patrocínio.pdf " #url proposta patrocinio
 
 
 # Navigation
