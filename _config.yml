@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'ZEPPELIN-README.
 # Site Settings
 title: "#hackathonA"
 email: "coletivomapadasmina@gmail.com"
-description: "#hackathonA é uma maratona de programação para o #mapadasminas"
+description: "#hackathonA é uma maratona de programação para o #mapadasmina"
 baseurl: "/hackathona"
 url: "http://hackathona.mapadasmina.com.br"
 permalink: "/blog/:title"
@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "Sobre a #hackathonA"
 aboutBlock:
  - {title: "Problema", image: "problem.svg", text: "Há uma grave subrepresentação de mulheres na política. Segundo dados  do TSE sobre as últimas eleições de 2014, apenas 28% dos candidatos eram mulheres. Hoje, entre as 81 cadeiras no senado, apenas 12 são ocupadas por mulheres. Na câmara, elas ocupam 50 cadeiras no universo de 512 parlamentares." }
- - {title: "Desafio", image: "challenge.svg", text: "Queremos mudar essa realidade nas eleições 2018! Para isso, iremos desenvolver juntas uma aplicação que irá ajudar a aumentar a visibilidade da candidatura de mulheres já nesta eleição. Dispomos de 24 horas para unir código, design, comunicação e criatividade numa plataforma entitulada #mapadasminas." }
+ - {title: "Desafio", image: "challenge.svg", text: "Queremos mudar essa realidade nas eleições 2018! Para isso, iremos desenvolver juntas uma aplicação que irá ajudar a aumentar a visibilidade da candidatura de mulheres já nesta eleição. Dispomos de 24 horas para unir código, design, comunicação e criatividade numa plataforma entitulada #mapadasmina." }
  - {title: "Juntas+", image: "together.svg", text: "Convidamos mulheres, cis e trans, para ocupar este espaço independentemente da sua área de ocupação. Se você é desenvolvedora, designer, jornalista, publicitária ou apenas curiosa venha nos ajudar a construir um Brasil melhor com políticas melhores para nós mulheres." }
 
 # Statistic Block
