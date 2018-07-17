@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'ZEPPELIN-README.
 title: "#hackathonA"
 email: "coletivomapadasmina@gmail.com"
 description: "#hackathonA é uma maratona de programação para o #mapadasmina"
-baseurl: "/hackathona"
+baseurl: "/"
 url: "http://hackathona.mapadasmina.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-121710030-1"
