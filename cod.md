@@ -3,6 +3,7 @@ layout: post
 title: Código de Conduta
 permalink: /cod/
 isStaticPost: true
+future: true
 ---
 
 Um dos objetivos da #hackathonA é criar um ambiente democrático de aprendizado, troca de experiências, networking e confraternização, livre de discriminação e assédio.
