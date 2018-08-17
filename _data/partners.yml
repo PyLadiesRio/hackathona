@@ -1,0 +1,5 @@
+-
+    group: "Patrocinadores"
+    elements:
+        - {name: "Globo.com", description: "Globo.com", link: "https://www.globo.com/", imageUrl: "globo.png"}
+        - {name: "Parmê", description: "Parmê", link: "http://www.parme.com.br/", imageUrl: "parme.png"}
